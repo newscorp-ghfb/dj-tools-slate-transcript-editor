@@ -64,7 +64,7 @@
     "sbd": "^1.0.18",
     "slate": "^0.59.0",
     "slate-history": "^0.59.0",
-    "slate-react": "^0.59.0",
+    "slate-react": "^0.91.0",
     "smpte-timecode": "^1.2.3",
     "stt-align-node": "^1.1.10-alpha.1"
   },
