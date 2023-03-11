@@ -62,7 +62,7 @@
     "p-debounce": "^3.0.1",
     "prop-types": "^15.7.2",
     "sbd": "^1.0.18",
-    "slate": "^0.59.0",
+    "slate": "^0.90.0",
     "slate-history": "^0.59.0",
     "slate-react": "^0.59.0",
     "smpte-timecode": "^1.2.3",
